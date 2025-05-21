@@ -1,3 +1,5 @@
+
+echo "node_modules/" > .gitignore
 # generated files
 target/
 generated/
